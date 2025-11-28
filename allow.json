@@ -1,6 +1,6 @@
 {
   "allowed": [
-    "ABC123HWID",   // 내 PC
+    "48dbf97e1bbe8f1cea2aa12a33cff24d",   // 내 PC
     "EEE999HWID",   // 친구 PC
     "11AA22BBHWID"  // 추가 허용
   ]
