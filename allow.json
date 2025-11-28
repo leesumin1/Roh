@@ -1,0 +1,7 @@
+{
+  "allowed": [
+    "ABC123HWID",   // 내 PC
+    "EEE999HWID",   // 친구 PC
+    "11AA22BBHWID"  // 추가 허용
+  ]
+}
